@@ -1,0 +1,23 @@
+{
+  "name": "basic-fe-project",
+  "authors": [
+    "Cyril RICHARD <tuxcy17@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3",
+    "angular": "^1.6.4",
+    "font-awesome": "^4.7.0"
+  }
+}
